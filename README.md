@@ -33,6 +33,8 @@
 
 ![рутркер](https://user-images.githubusercontent.com/63861460/160572853-47133e7e-64b5-4931-8293-c86a36df0cb0.jpg)
 
+
+
 ![инста](https://user-images.githubusercontent.com/63861460/160572884-5a1652f6-c53d-4603-b444-f5b87a1008a6.jpg)
 
 ## IPSec/IKEv2
@@ -61,5 +63,10 @@
 Результаты работы Wireshark находятся в папке wireshark-tests.
 
 ![wireshark](https://user-images.githubusercontent.com/63861460/160579102-149d3d26-6f93-4963-a9ea-5482b54134bf.png)
+
+8. Проверка через ipconfig
+
+![ipconfig](![image](https://user-images.githubusercontent.com/80931235/160748610-bf03829a-cc46-4042-99b3-94418863fa9a.png)
+
 
 
